@@ -1,0 +1,5 @@
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.csprojResolveAssemblyReference.cache
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.pdb

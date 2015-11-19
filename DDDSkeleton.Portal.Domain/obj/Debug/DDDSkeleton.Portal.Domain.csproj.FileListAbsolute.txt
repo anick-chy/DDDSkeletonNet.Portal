@@ -1,0 +1,7 @@
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeleton.Portal.Domain.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeleton.Portal.Domain.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.csprojResolveAssemblyReference.cache
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.pdb
