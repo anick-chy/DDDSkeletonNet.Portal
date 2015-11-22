@@ -42,7 +42,21 @@ namespace DDDSkeletonNet.Portal.Repository.Memory
         {
             using (TransactionScope scope = new TransactionScope())
             {
+                foreach (IAggregateRoot aggregateRoot in _insertedAggregates.Keys)
+                {
+                    _insertedAggregates[aggregateRoot].PersistInsertion(aggregateRoot);
+                }
 
+                foreach (IAggregateRoot aggregateRoot in _updatedAggregates.Keys)
+                {
+                    _updatedAggregates[aggregateRoot].PersistUpdate(aggregateRoot);
+                }
+
+                foreach (IAggregateRoot aggregateRoot in _deletedAggregates.Keys)
+                {
+                    _deletedAggregates[aggregateRoot].PersistDeletion(aggregateRoot);
+                }
+                scope.Complete();
             }
         }
     }

@@ -5,3 +5,10 @@ E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSke
 E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.csprojResolveAssemblyReference.cache
 E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
 E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.csprojResolveAssemblyReference.cache
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb
