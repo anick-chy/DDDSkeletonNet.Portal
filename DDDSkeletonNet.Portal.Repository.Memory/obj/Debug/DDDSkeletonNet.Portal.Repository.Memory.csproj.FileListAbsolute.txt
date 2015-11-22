@@ -1,0 +1,7 @@
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.csprojResolveAssemblyReference.cache
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb

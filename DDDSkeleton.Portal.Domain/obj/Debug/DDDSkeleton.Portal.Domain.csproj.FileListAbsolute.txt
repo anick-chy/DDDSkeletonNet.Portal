@@ -5,3 +5,10 @@ F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\De
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.csprojResolveAssemblyReference.cache
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.dll
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeleton.Portal.Domain.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeleton.Portal.Domain.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.csprojResolveAssemblyReference.cache
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeleton.Portal.Domain\obj\Debug\DDDSkeleton.Portal.Domain.pdb
