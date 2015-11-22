@@ -3,3 +3,8 @@ F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Co
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.csprojResolveAssemblyReference.cache
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.dll
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\bin\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\bin\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.csprojResolveAssemblyReference.cache
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.dll
+E:\Anick 01\projects\Personal project\DesignPattern\DDDSkeletonNet.Portal\DDDSkeletonNet.Infrastructure.Common\obj\Debug\DDDSkeletonNet.Infrastructure.Common.pdb
