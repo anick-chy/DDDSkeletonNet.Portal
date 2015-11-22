@@ -42,6 +42,8 @@
     <Compile Include="Customer\Customer.cs" />
     <Compile Include="Customer\CustomerBusinessRule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValueObjects\Address.cs" />
+    <Compile Include="ValueObjects\ValueObjectBusinessRule.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DDDSkeletonNet.Infrastructure.Common\DDDSkeletonNet.Infrastructure.Common.csproj">
