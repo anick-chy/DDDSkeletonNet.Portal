@@ -40,8 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\DatabaseCustomer.cs" />
+    <Compile Include="Database\InMemoryDatabaseObjectContext.cs" />
     <Compile Include="InMemoryUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DDDSkeletonNet.Infrastructure.Common\DDDSkeletonNet.Infrastructure.Common.csproj">
