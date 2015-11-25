@@ -66,5 +66,7 @@ namespace DDDSkeletonNet.Portal.Repository.Memory
         {
             _unitOfWork.RegisterDeletion(aggregate, this);
         }
+
+        public abstract DomainType FindBy(IdType id);
     }
 }
