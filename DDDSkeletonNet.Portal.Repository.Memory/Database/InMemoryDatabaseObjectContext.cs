@@ -55,5 +55,16 @@ namespace DDDSkeletonNet.Portal.Repository.Memory.Database
             DatabaseCustomers.Add(new DatabaseCustomer() { Address = "Strandvägen", City = "Stockholm", Country = "Sweden", CustomerName = "BadCustomer", Id = 2, Telephone = "123345456" });
             DatabaseCustomers.Add(new DatabaseCustomer() { Address = "Kis utca", City = "Budapest", Country = "Hungary", CustomerName = "FavouriteCustomer", Id = 3, Telephone = "987654312" });
         }
+
+        public static InMemoryDatabaseObjectContext Instance
+        {
+            get { return Nested.instance; }
+        }
+
+        private class Nested
+        {
+            static Nested() { }
+            internal static readonly InMemoryDatabaseObjectContext instance = new InMemoryDatabaseObjectContext();
+        }
     }
 }

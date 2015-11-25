@@ -43,6 +43,7 @@
     <Compile Include="Database\DatabaseCustomer.cs" />
     <Compile Include="Database\InMemoryDatabaseObjectContext.cs" />
     <Compile Include="Database\IObjectContextFactory.cs" />
+    <Compile Include="Database\LazySingletonObjectContextFactory.cs" />
     <Compile Include="InMemoryUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository.cs" />
