@@ -10,6 +10,14 @@ namespace DDDSkeletonNet.Portal.Repository.Memory
         private readonly IUnitOfWork _unitOfWork;
         private readonly IObjectContextFactory _objectContextFactory;
 
+        public IObjectContextFactory ObjectContextFactory
+        {
+            get
+            {
+                return _objectContextFactory;
+            }
+        }
+
         public Repository(IUnitOfWork unitOfWork, IObjectContextFactory objectContextFactory)
         {
             if (unitOfWork == null) throw new ArgumentNullException("Unit of work");
