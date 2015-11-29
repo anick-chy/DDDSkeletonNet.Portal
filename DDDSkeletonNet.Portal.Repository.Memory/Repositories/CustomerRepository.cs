@@ -1,5 +1,6 @@
 ﻿using DDDSkeleton.Portal.Domain.Customer;
 using DDDSkeleton.Portal.Domain.ValueObjects;
+using DDDSkeletonNet.Infrastructure.Common.UnitOfWork;
 using DDDSkeletonNet.Portal.Repository.Memory.Database;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ namespace DDDSkeletonNet.Portal.Repository.Memory.Repositories
 {
     public class CustomerRepository : Repository<Customer, int, DatabaseCustomer>, ICustomerRepository
     {
+        public CustomerRepository(IUnitOfWork unitOfWork, IObjectContextFactory objectContextFactory) : base(unitOfWork, objectContextFactory) { }
         public override DatabaseCustomer ConvertToDatabaseType(Customer domainType)
         {
             throw new NotImplementedException();

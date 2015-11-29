@@ -12,3 +12,5 @@ F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.csprojResolveAssemblyReference.cache
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.dll
 F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\obj\Debug\DDDSkeletonNet.Portal.Repository.Memory.pdb
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeleton.Portal.Domain.dll
+F:\DesignPatternPractices\DDDSkeletonNet.Portal\DDDSkeletonNet.Portal.Repository.Memory\bin\Debug\DDDSkeleton.Portal.Domain.pdb
