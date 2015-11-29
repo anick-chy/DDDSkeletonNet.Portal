@@ -13,7 +13,15 @@ namespace DDDSkeletonNet.Portal.Repository.Memory.Repositories
         public CustomerRepository(IUnitOfWork unitOfWork, IObjectContextFactory objectContextFactory) : base(unitOfWork, objectContextFactory) { }
         public override DatabaseCustomer ConvertToDatabaseType(Customer domainType)
         {
-            throw new NotImplementedException();
+            return new DatabaseCustomer()
+            {
+                Address = domainType.CustomerAddress.AddressLine1,
+                City = domainType.CustomerAddress.City,
+                Country = "N/A",
+                CustomerName = domainType.Name,
+                Id = domainType.Id,
+                Telephone = "N/A"
+            };
         }
 
         public override Customer FindBy(int id)
@@ -28,7 +36,13 @@ namespace DDDSkeletonNet.Portal.Repository.Memory.Repositories
 
         public IEnumerable<Customer> FindAll()
         {
-            throw new NotImplementedException();
+            List<Customer> allCustomers = new List<Customer>();
+            List<DatabaseCustomer> allDatabaseCustomers = ObjectContextFactory.Create().DatabaseCustomers.ToList();
+            foreach (DatabaseCustomer dc in allDatabaseCustomers)
+                allCustomers.Add(ConvertToDomain(dc));
+
+            return allCustomers;
+
         }
 
         private Customer ConvertToDomain(DatabaseCustomer databaseCustomer)
